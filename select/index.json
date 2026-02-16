@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "OH！！！！迷惑！！！！",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-02-16T07:50:17.886613Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OH!!!!迷惑!!!!",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/01_OH!!!!迷惑!!!!_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "OH!!!! 迷惑!!!!",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/02_OH!!!!_迷惑!!!!_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "OH!!!!迷惑!!!!",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/03_OH!!!!迷惑!!!!_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "OH!!!!迷惑!!!! (2017 Remaster)",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/04_OH!!!!迷惑!!!!_(2017_Remaster)_GReeeeN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OH!!!!迷惑!!!!",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_OH!!!!迷惑!!!!_GReeeeN.txt"
+    }
+  ]
+}
